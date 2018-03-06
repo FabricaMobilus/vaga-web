@@ -1,5 +1,7 @@
 # Vaga de Desenvolvedor Web
 
+Disponível até: 30/03/2018
+
 ## Sobre nós
 
 A Mobilus Tecnologia é uma empresa focada no desenvolvimento de soluções para ambientes móveis (Apple, Android e Windows Phone). Atuando nos diversos segmentos envolvidos nesta atividade (codificação, testes, design gráfico, ilustração, gamification e redes sociais), atingimos o resultado desejado transformando sua idéia ou projeto em uma solução tangível, produtiva e fácil de ser usada.
