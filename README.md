@@ -10,8 +10,8 @@ A Mobilus Tecnologia é uma empresa focada no desenvolvimento de soluções para
 
 - Entender de usabilidade e melhores práticas no desenvolvimento para web;
 - Sólidos conhecimentos em HTML e CSS;
-- Sólidos conhecimentos em Angular ou outros frameworks web;
-- Sólidos conhecimentos em Javascript/Typscript;
+- Sólidos conhecimentos em Angular e/ou outros frameworks web;
+- Sólidos conhecimentos em Javascript/TypeScript;
 - Sólidos conhecimentos em GIT e TFS;
 - Experiência com Firebase;
 - Experiência com integração a serviços REST;
